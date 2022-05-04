@@ -8,7 +8,7 @@ setuptools.setup (
   author='sunghwanbae',
   author_email='zxcv9676@naver.com',
   url = "https://github.com/pear-c/mycalc1",
-  download_url =
+  download_url = "https://github.com/pear-c/mycalc1/releases/tag/v1.0.0",
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdown',
